@@ -13,3 +13,10 @@ Tasks to get done:
 ### 2.) Segment out boxes from an answer template. Can make the assumption that a teacher would a red pen to draw boxes around AF (Answer Fields)
 
 ### 3.) Try out grading on adult handwriting example
+
+
+## 9/14/19
+This is the Google drive that host the raw data and worksheets. 
+https://drive.google.com/open?id=171DtfhsSxcVwGiEdn1WFTO2AQKdYejds
+
+
