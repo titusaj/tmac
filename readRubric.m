@@ -20,7 +20,8 @@ function [] = readRubric()
 %%  convert the HSV space
 HSV = rgb2hsv(im);
 
-%%  
+%%  count the number of answers to read
+
 
 %% Bound around pixel space of intrest based on the saturation
 
